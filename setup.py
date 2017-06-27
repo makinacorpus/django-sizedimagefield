@@ -13,7 +13,7 @@ def changes():
 
 setup(
     name='django-sizedimagefield',
-    version='0.1',
+    version='0.2',
     description='A very simple Django field to resize images at upload.',
     long_description=readme() + '\n\n' + changes(),
     classifiers=[
