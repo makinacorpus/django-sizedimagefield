@@ -60,7 +60,5 @@ Please see the LICENSE file.
 Contacts
 --------
 
-Please see the AUTHORS file.
-
 .. image:: https://drupal.org/files/imagecache/grid-3/Logo_slogan_300dpi.png
     :target: http://www.makina-corpus.com
