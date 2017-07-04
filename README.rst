@@ -2,7 +2,7 @@ Django SizedImageField
 ======================
 
 
-PLEASE READ: This module is deprecated (yes, already). I found a better (unmaintained) one shortly after I created this one. I forked it over there: https://github.com/makinacorpus/django-resized
+PLEASE READ: This module is deprecated (yes, already). I found a better (unmaintained) one shortly after I created this one. I forked it over there: https://github.com/un1t/django-resized
 
 
 What is it ?
